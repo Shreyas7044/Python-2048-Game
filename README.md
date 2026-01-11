@@ -58,11 +58,11 @@ The entire game logic is implemented using Python lists and functions.
 ---
 
 ## 🖼️ Screenshot
-![Application Screenshot]()
+![Application Screenshot](Python-2048-Game/screenshot1.png)
 
-![Application Screenshot]()
+![Application Screenshot](Python-2048-Game/screenshot2.png)
 
-![Application Screenshot]()
+![Application Screenshot](Python-2048-Game/screenshot3.png)
 
 ---
 
